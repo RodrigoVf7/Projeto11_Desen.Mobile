@@ -8,7 +8,8 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import br.edu.fateczl.timejogador.R;
-
+/*@author: RODRIGO VINICIUS FERRAZ DA SILVA
+ *@RA: 1110482313043*/
 public class AddJogadorFragment extends Fragment {
 
     @Nullable

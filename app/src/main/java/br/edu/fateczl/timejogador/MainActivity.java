@@ -9,6 +9,8 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.ListFragment;
 import br.edu.fateczl.timejogador.model.AddJogadorFragment;
 import br.edu.fateczl.timejogador.model.AddTimeFragment;
+/*@author: RODRIGO VINICIUS FERRAZ DA SILVA
+ *@RA: 1110482313043*/
 
 public class MainActivity extends AppCompatActivity {
 

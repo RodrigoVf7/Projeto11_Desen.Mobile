@@ -12,7 +12,8 @@ import java.time.LocalDate;
 import br.edu.fateczl.timejogador.R;
 import br.edu.fateczl.timejogador.model.Jogador;
 import br.edu.fateczl.timejogador.model.Time;
-
+/*@author: RODRIGO VINICIUS FERRAZ DA SILVA
+ *@RA: 1110482313043*/
 public class ListFragment extends Fragment {
 
     private TextView textViewList;
